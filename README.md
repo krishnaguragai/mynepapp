@@ -1,4 +1,4 @@
-mynepapp
+My Php App
 ========
 
-Nepali Php Application
+Php Application
